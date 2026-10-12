@@ -1,0 +1,19 @@
+# Entorno probado: Python 3.13
+# Versiones con las que se ejecutó el notebook de punta a punta.
+
+# Datos y cálculo
+pandas==3.0.6
+numpy==2.5.3
+scipy==1.18.1
+
+# Preparación de datos y verificación
+scikit-learn==1.9.1
+
+# Gráficos
+seaborn==0.13.2
+matplotlib==3.11.2
+
+# Para abrir y ejecutar el notebook
+notebook==7.6.3
+ipykernel==7.4.0
+nbconvert==7.17.1
